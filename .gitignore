@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+**/.DS_Store
+
+# Ignore Python virtual environments
+axc_lab_env/
+**/axc_lab_env/
+__pycache__/
+**/*.pyc
