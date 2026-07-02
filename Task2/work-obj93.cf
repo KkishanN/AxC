@@ -1,0 +1,7 @@
+v 4
+file . "fadd_tb.vhd" "b7ab1c014362cfc62f0dfa3ba8bdef5dad8af932" "20260702001024.148":
+  entity fadd_tb at 1( 0) + 0 on 13;
+  architecture sim of fadd_tb at 7( 77) + 0 on 14;
+file . "fadd.vhd" "8a2d8b13922fdf29adc10721d5222aaf10507ebd" "20260702001024.116":
+  entity fadd at 1( 0) + 0 on 11;
+  architecture rtl of fadd at 11( 158) + 0 on 12;
