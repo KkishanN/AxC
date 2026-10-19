@@ -1,7 +1,6 @@
 """
 Design Space Exploration (DSE) via Beam Search for 10-Stage Approximate FIR Filter
-Paderborn University - Approximate Computing (AxC 2026) - Lab Module 2
-Lecturers: Dr. Muhammad Awais, Prof. Dr. Marco Platzner
+Approximate Computing (AxC) - Lab Module 2
 
 Specifications:
 - Input circuit: 10-stage FIR filter
@@ -155,7 +154,6 @@ class ArchitectureNode:
 def run_beam_search_dse():
     print("=" * 70)
     print("  AxC Lab 2: FIR Filter Design Space Exploration (Beam Search)")
-    print("  Paderborn University - Approximate Computing")
     print("=" * 70)
 
     print("\n1. Generating 10,000 uniform random inputs in [0, 255] without repetition...")

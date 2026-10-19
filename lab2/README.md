@@ -1,9 +1,7 @@
 # Lab Module 2: Hardware Approximate Computing & Spatial Architecture
 
-**Institution:** Universität Paderborn  
-**Course:** Approximate Computing (AxC 2026)  
+**Domain:** Approximate Computing (AxC)  
 **Author:** Kishan Nadageri  
-**Instructors:** Dr. Muhammad Awais, Prof. Dr. Marco Platzner  
 
 ---
 

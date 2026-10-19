@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Approximate Computing Components: Parametric Adders and Multipliers
--- AxC Course 2026 - Paderborn University
+-- Approximate Computing (AxC)
 -- Author: Kishan Nadageri
 --------------------------------------------------------------------------------
 library ieee;

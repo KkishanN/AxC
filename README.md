@@ -1,13 +1,10 @@
 # Approximate Computing (AxC)
 
-[![University](https://img.shields.io/badge/Universität-Paderborn-blue.svg)](https://www.uni-paderborn.de/)
-[![Course](https://img.shields.io/badge/Course-Approximate%20Computing%20(AxC)-green.svg)]()
+[![Topic](https://img.shields.io/badge/Domain-Approximate%20Computing-blue.svg)]()
 [![Hardware](https://img.shields.io/badge/Language-VHDL%20%7C%20C%2B%2B17%20%7C%20Python-orange.svg)]()
 [![Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-Graduate coursework and systems research developed for the **Approximate Computing (AxC 2026)** curriculum at **Universität Paderborn**, instructed by **Dr. Muhammad Awais** and **Prof. Dr. Marco Platzner**.
-
-This repository hosts algorithmic and hardware approximation frameworks across deep learning, digital signal processing, and symbolic hardware accelerators.
+Systems research and implementations exploring algorithmic and hardware approximation frameworks across deep learning, digital signal processing, and symbolic hardware accelerators.
 
 ---
 
@@ -111,5 +108,4 @@ jupyter notebook lab1_sol.ipynb
 
 ## Author
 **Kishan Nadageri**  
-M.Sc. Computer Engineering, Universität Paderborn  
 GitHub: [@KkishanN](https://github.com/KkishanN)

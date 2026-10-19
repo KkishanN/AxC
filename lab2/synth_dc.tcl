@@ -1,7 +1,7 @@
 # ==============================================================================
 # Synopsys Design Compiler (DC) Synthesis Script
 # 10-Stage Approximate FIR Filter
-# AxC Course 2026 - Paderborn University
+# Approximate Computing (AxC)
 # ==============================================================================
 
 # Set search path and target technology libraries

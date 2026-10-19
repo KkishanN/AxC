@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- 10-Stage Approximate FIR Filter (Pipelined Architecture)
--- AxC Course 2026 - Paderborn University
+-- Approximate Computing (AxC)
 -- Author: Kishan Nadageri
 --
 -- Specifications:
