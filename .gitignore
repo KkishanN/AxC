@@ -2,8 +2,14 @@
 .DS_Store
 **/.DS_Store
 
-# Ignore Python virtual environments
+# Ignore Python virtual environments & bytecode
 axc_lab_env/
 **/axc_lab_env/
 __pycache__/
 **/*.pyc
+
+# Ignore compiled binaries and simulation outputs
+*.o
+spatial_reducer_sim
+*.cf
+*.vcd
